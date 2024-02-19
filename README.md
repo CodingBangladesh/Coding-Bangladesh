@@ -26,8 +26,6 @@
 
 
 
-- 🔭 I’m currently working on Full Stack Development.
+- 🔭 I’m currently working on MERN Development.
 
-- 📫 How to reach me **sariasanjidahaque@gmail.com**
-
-- ⚡ Fun fact **I think I'm boring**
+- ⚡ Fun fact **I think I'm alone**
